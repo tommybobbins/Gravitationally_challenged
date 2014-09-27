@@ -5,3 +5,5 @@ Timer ends when the vibration sensor is trigerred when the bb hits the ramp. The
 http://cpc.farnell.com/comus-assemtech/ms24p-10/vibration-sensor-non-mercury/dp/SN36794
 
 Gravitational value is displayed on a converted 10mA FSD English Electric Ammeter with a 570 Ohm resistor.
+
+Video of the finished object is here: https://www.youtube.com/watch?v=q4dzjf-RSGI
